@@ -4,7 +4,7 @@ pandas==2.2.1
 plotly==5.19.0
 requests==2.31.0
 streamlit==1.31.1
-st-annotated-text==4.0.1
+st-annotated-text==4.0.2
 streamlit-image-comparison==0.0.4
 streamlit-folium
 folium

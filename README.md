@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/773642918.svg)](https://doi.org/10.5281/zenodo.15266763)
+
 # Web Development using Python
 
 This repository contains the source code of the demo session and the presentation slides for 2023/2024 Spring semester HUMA5630's Unit 8 class on 22 March 2024.

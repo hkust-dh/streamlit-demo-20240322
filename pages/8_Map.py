@@ -38,23 +38,23 @@ st.code(codedemo, language='python')
 
 ###############################################################
 # Map 1 using StoryMaps
-# https://storymaps.com/
+# https://storymaps.arcgis.com/
 ###############################################################
 
 
 '''
 # Method 1 - StoryMaps
 
-1. Create and publish your storymap on **https://storymaps.com/**
+1. Create and publish your storymap on **https://storymaps.arcgis.com/**
 2. Click the 3 dot "More actions"
 3. Click "Embed this story" and copy the embed code
 '''
 
-st.success("Sample below: https://storymaps.com/stories/989d4cb218f94c8a983076e694ad3d25")
+st.success("Sample below: https://storymaps.arcgis.com/stories/989d4cb218f94c8a983076e694ad3d25")
 
 components.html("""
 
-    <iframe src="https://storymaps.com/stories/989d4cb218f94c8a983076e694ad3d25?cover=false" width="100%" height="1200" frameborder="0" allowfullscreen allow="geolocation"></iframe>
+    <iframe src="https://storymaps.arcgis.com/stories/989d4cb218f94c8a983076e694ad3d25?cover=false" width="100%" height="1200" frameborder="0" allowfullscreen allow="geolocation"></iframe>
 
     """, 
     height=1200)
